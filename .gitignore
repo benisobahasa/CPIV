@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+data/
+runs/
+*.joblib
+*.wav
+!tests/fixtures/*.wav
+.DS_Store

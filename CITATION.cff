@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use CPIV, please cite it as below."
+title: "CPIV: Causal Perturbation & Intervention for Voice"
+type: software
+authors:
+  - alias: "benisobahasa"
+repository-code: "https://github.com/benisobahasa/CPIV"
+license: MIT
+version: 0.1.0
