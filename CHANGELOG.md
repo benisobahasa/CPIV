@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.2.2
+- First PyPI release
+
 ## 0.2.1
 - CI on Linux and macOS, packaging check, CodeQL, release workflow (GitHub Release, optional PyPI), Dependabot, CODEOWNERS, editorconfig, repository setup guide
 - `--pattern` and `--group-depth` for real corpora (VCTK, LibriSpeech), `examples/real_pairs_check.py`, getting-started guide

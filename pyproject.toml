@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "cpiv"
-version = "0.2.1"
+version = "0.2.2"
 description = "CPIV: Causal Perturbation & Intervention for Voice. Explainable attribution of the causes behind voice changes, plus a robustness benchmark."
 readme = "README.md"
 requires-python = ">=3.10"
